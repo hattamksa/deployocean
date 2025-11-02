@@ -1,4 +1,4 @@
-# 🚀 Deploy to DigitalOcean (GitHub Actions + Docker)
+# 🚀 Deploy to Server like DigitalOcean Droplet,contabo, ec2 aws, google compute etc (GitHub Actions + Docker)
 
 This repository uses **GitHub Actions** to automatically build, push, and deploy the app to a **DigitalOcean Droplet** using Docker.
 
